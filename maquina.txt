@@ -1,0 +1,70 @@
+
+		=============================Informações de placas PCI==========================
+
+00:00.0 Host bridge: Intel Corporation 8th Gen Core Processor Host Bridge/DRAM Registers (rev 07)
+00:01.0 PCI bridge: Intel Corporation Skylake PCIe Controller (x16) (rev 07)
+00:14.0 USB controller: Intel Corporation 200 Series/Z370 Chipset Family USB 3.0 xHCI Controller
+00:14.2 Signal processing controller: Intel Corporation 200 Series PCH Thermal Subsystem
+00:16.0 Communication controller: Intel Corporation 200 Series PCH CSME HECI
+00:17.0 SATA controller: Intel Corporation 200 Series PCH SATA controller [AHCI mode]
+00:1d.0 PCI bridge: Intel Corporation 200 Series PCH PCI Express Root Port (rev f0)
+00:1f.0 ISA bridge: Intel Corporation Device a2ca
+00:1f.2 Memory controller: Intel Corporation 200 Series/Z370 Chipset Family Power Management Controller
+00:1f.3 Audio device: Intel Corporation 200 Series PCH HD Audio
+00:1f.4 SMBus: Intel Corporation 200 Series/Z370 Chipset Family SMBus Controller
+01:00.0 VGA compatible controller: NVIDIA Corporation GP107 [GeForce GTX 1050 Ti] (rev a1)
+01:00.1 Audio device: NVIDIA Corporation GP107GL High Definition Audio Controller (rev a1)
+02:00.0 Ethernet controller: Realtek Semiconductor Co., Ltd. RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller (rev 15)
+
+		=============================Informações de memoria =================
+
+              total        used        free      shared  buff/cache   available
+Mem:       16359944     2068956    10422840       68120     3868148    13883432
+Swap:        999420           0      999420
+
+		========================INFORMAÇÕES DE PORTAS USB =========================
+
+Bus 002 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 001 Device 003: ID 1a2c:4c5e China Resource Semico Co., Ltd 
+Bus 001 Device 002: ID 04d9:fc30 Holtek Semiconductor, Inc. 
+Bus 001 Device 004: ID 0d8c:0012 C-Media Electronics, Inc. 
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+
+		===========================INFORMAÇÕES DE CPU ================================
+
+Arquitetura:                x86_64
+Modo(s) operacional da CPU: 32-bit, 64-bit
+Ordem dos bytes:            Little Endian
+Tamanhos de endereço:       39 bits physical, 48 bits virtual
+CPU(s):                     6
+Lista de CPU(s) on-line:    0-5
+Thread(s) per núcleo:       1
+Núcleo(s) por soquete:      6
+Soquete(s):                 1
+Nó(s) de NUMA:              1
+ID de fornecedor:           GenuineIntel
+Família da CPU:             6
+Modelo:                     158
+Nome do modelo:             Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz
+Step:                       10
+CPU MHz:                    800.037
+CPU MHz máx.:               4100,0000
+CPU MHz mín.:               800,0000
+BogoMIPS:                   5808.00
+Virtualização:              VT-x
+cache de L1d:               32K
+cache de L1i:               32K
+cache de L2:                256K
+cache de L3:                9216K
+CPU(s) de nó0 NUMA:         0-5
+Opções:                     fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc art arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 sdbg fma cx16 xtpr pdcm pcid sse4_1 sse4_2 x2apic movbe popcnt tsc_deadline_timer aes xsave avx f16c rdrand lahf_lm abm 3dnowprefetch cpuid_fault epb invpcid_single pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid ept_ad fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid mpx rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 xsaves dtherm ida arat pln pts hwp hwp_notify hwp_act_window hwp_epp flush_l1d
+
+		================INFORMAÇÕES SOBRE KERNEL =================
+
+
+Nome do kernel: 
+Linux
+Versão do kernel: 
+4.19.0-17-amd64
+Arquitetura: 
+x86_64
